@@ -1,0 +1,5 @@
+public class nene{
+  public static void main(String[] args) {
+      sout("Hello World");
+  }
+}
